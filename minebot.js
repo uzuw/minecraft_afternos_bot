@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 const bot = mineflayer.createBot({
   host: 'AUD_minecraft.aternos.me', 
   port: 37538,
-  username: 'AFK_Worker', 
+  username: 'goonergirl123', 
   version: '1.21.11',   // Explicitly set for the Mounts of Mayhem update
   auth: 'offline'       // Use 'offline' for Aternos cracked servers
 });
